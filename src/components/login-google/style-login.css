@@ -1,0 +1,43 @@
+.div-btn-login {
+    margin-left: 25%;
+    position: fixed;
+    bottom: 55px;
+    width: 50%;
+}
+
+.image-logo-login {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    width: 90%;
+}
+
+.div-conteudo-login {
+    /* margin: 20% auto; */
+    align-items: center;
+    text-align: center;
+}
+
+.div-conteudo-login:before {
+    content: "";
+    display: inline-block;
+    vertical-align: middle;
+    height: 100%;
+}
+
+.spinner-border {
+    margin: 40% !important;
+    width: 7rem;
+    height: 7rem;
+}
+
+.body {
+    min-height: 100vh;
+    background-image: url("../../img/bgc.jpg");
+    background-position: top center;
+    background-size: cover;
+    padding: 0;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

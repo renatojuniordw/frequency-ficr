@@ -1,0 +1,44 @@
+.div-conteudo-history {
+    text-align: left;
+}
+
+.svg-calendario {
+    padding: 2px;
+    width: 30px;
+}
+
+.svg-calendario-check {
+    padding-right: 10px;
+    width: 40px;
+}
+
+#span-qtd-presenca {
+    float: right;
+    background-color: rgb(0, 151, 218);
+}
+
+.div-conteudo-history h3 {
+    text-align: center;
+}
+
+.card-extrato {
+    padding: 15px 0px;
+}
+
+.card-Body-calendario {
+    box-shadow: 0px 1px #888888;
+    width: 85%;
+}
+
+.card-total-presenca {
+    box-shadow: 0px 1px #888888;
+    padding-bottom: 5px;
+}
+
+.inputDate {
+    width: 40%;
+}
+
+#input-dt-inicio {
+    margin-right: 10px;
+}

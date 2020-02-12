@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0c3b083a.chunk.css",
+    "main.js": "/static/js/main.cf6c117f.chunk.js",
+    "main.js.map": "/static/js/main.cf6c117f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9cebe760.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9cebe760.js.map",
+    "static/css/2.30861e7f.chunk.css": "/static/css/2.30861e7f.chunk.css",
+    "static/js/2.4291eaa8.chunk.js": "/static/js/2.4291eaa8.chunk.js",
+    "static/js/2.4291eaa8.chunk.js.map": "/static/js/2.4291eaa8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.17f7b57ed1adfdd8b6d765d02db173a7.js": "/precache-manifest.17f7b57ed1adfdd8b6d765d02db173a7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.30861e7f.chunk.css.map": "/static/css/2.30861e7f.chunk.css.map",
+    "static/css/main.0c3b083a.chunk.css.map": "/static/css/main.0c3b083a.chunk.css.map",
+    "static/media/Logotipo-Frequency-2.png": "/static/media/Logotipo-Frequency-2.be945d99.png",
+    "static/media/calendario-check.svg": "/static/media/calendario-check.df1155f8.svg",
+    "static/media/calendario.svg": "/static/media/calendario.faa7a8e8.svg",
+    "static/media/left-arrow.svg": "/static/media/left-arrow.0fc3268c.svg",
+    "static/media/logo-ficr-oficial.png": "/static/media/logo-ficr-oficial.2e86eace.png"
+  }
+}
+
+// version 2.0.3
