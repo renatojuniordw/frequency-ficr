@@ -18,7 +18,13 @@ O Frequency FICR foi desenvolvido na faculdade para TCC.
 </ul>
 
 
-# 
-Controle de Geolocalização, só é permitido registrar a frequência caso esteja em um raio de até 1800 metros da instituição.
-Validação de Horários, só é permitido registrar a frequência caso esteja dentro do horário permitido e configurado pela instituição.
-Login pela conta Google da Instituição.
+# Regras / Validações
+
+<ul>
+    <li>Controle de Geolocalização, só é permitido registrar a frequência caso esteja em um raio de até 1800 metros da instituição.</li>
+    <li>Validação de Horários, só é permitido registrar a frequência caso esteja dentro do horário permitido e configurado pela instituição.</li>
+    <li>Login pela conta Google da Instituição.</li>
+</ul>
+
+
+
